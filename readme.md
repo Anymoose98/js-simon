@@ -9,3 +9,12 @@ Consigli del giorno:
 * Pensate prima in italiano.
 * Dividete in piccoli problemi la consegna.
 * Individuate gli elementi di cui avete bisogno per realizzare il programma
+
+
+1. Creare 5 numeri casuali unici
+2. Visualizzarli per 30s
+3. Farli scomparire dopo 30s
+4. Chiedere i 5 numeri visualizzati prima tramite prompt
+5. Controllare se corrispondono
+ 5. 1 Scritta hai vinto nel caso ha indovinato tutti
+ 5. 2 Dirgli quale ha indovinato e quali mancavano
