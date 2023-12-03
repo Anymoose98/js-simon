@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#contenitore-numeri{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 100px;
+}
